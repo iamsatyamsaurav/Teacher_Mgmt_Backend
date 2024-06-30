@@ -93,4 +93,4 @@ Filter Teachers : GET /teacher/filterTeacher<br/>
 ![MongoDB Add](https://raw.githubusercontent.com/iamsatyamsaurav/Teacher_Mgmt_Backend/main/mongodb_add.png)
 <br/>
 ### Fetching teachers details stored in the database<br/>
-![Fetch Teacher](https://raw.githubusercontent.com/iamsatyamsaurav/TeacherManagement_Backend/main/fetch_teacher.png)
+![Fetch Teacher](https://raw.githubusercontent.com/iamsatyamsaurav/Teacher_Mgmt_Backend/main/fetch_teacher.png)
